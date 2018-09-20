@@ -1,0 +1,11 @@
+cn\test\xu\mapper\TbUserMapper.class
+cn\test\xu\mapper\TbItemParamItemMapper.class
+cn\test\xu\mapper\TbOrderItemMapper.class
+cn\test\xu\mapper\TbOrderMapper.class
+cn\test\xu\mapper\TbItemCatMapper.class
+cn\test\xu\mapper\TbItemMapper.class
+cn\test\xu\mapper\TbContentCategoryMapper.class
+cn\test\xu\mapper\TbItemParamMapper.class
+cn\test\xu\mapper\TbOrderShippingMapper.class
+cn\test\xu\mapper\TbContentMapper.class
+cn\test\xu\mapper\TbItemDescMapper.class
