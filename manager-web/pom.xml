@@ -13,8 +13,11 @@
   	 	<groupId>cn.test.xu</groupId>
     	<artifactId>manager-interface</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	
+  	</dependency> 		
+  		<dependency>
+  			<groupId>com.github.pagehelper</groupId>
+			<artifactId>pagehelper</artifactId>
+  		</dependency>
   		<!-- JSP相关 -->
 		<dependency>
 			<groupId>jstl</groupId>

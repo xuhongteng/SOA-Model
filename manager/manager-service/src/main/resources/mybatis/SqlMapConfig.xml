@@ -3,5 +3,11 @@
 		PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 		"http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
-
+<!-- 配置PageHeleper分页插件 -->
+	<plugins>
+		<plugin interceptor="com.github.pagehelper.PageHelper">
+			<!-- 配置方言，说明使用的数据库的类型支持的数据库包括 -->
+		<property name="dialect" value="mysql" />
+	</plugin>
+	</plugins>
 </configuration>

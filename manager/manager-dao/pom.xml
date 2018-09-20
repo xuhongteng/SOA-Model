@@ -14,6 +14,11 @@
     	<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   	
+  	<dependency>
+  		<groupId>cn.test.xu</groupId>
+   		<artifactId>manager-pojo</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   	<!-- 添加对mybatis的依赖 -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
@@ -43,6 +48,7 @@
 		</dependency>
   	
   </dependencies>
+  
   <!-- 如果不添加此节点mybatis的mapper.xml文件都会被漏掉。 -->
 	<build>
 		<resources>
